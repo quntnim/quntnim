@@ -43,10 +43,6 @@ I am currently a freshman at Daegu Software High School, and I am currently lear
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<!--
 **quntnim/quntnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
