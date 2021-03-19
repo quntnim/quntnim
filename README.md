@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Qunt%20&fontSize=70&fontAlign=85&fontAlignY=35)
 
-## Hi! 
+## Hi! I'm Da Yoon Park (a.k.a Qunt)
 I am currently a freshman at Daegu Software High School, and I am currently learning C and Java.  
   
 
@@ -31,9 +31,6 @@ I am currently a freshman at Daegu Software High School, and I am currently lear
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=quntnim&&style=flat-square)  
