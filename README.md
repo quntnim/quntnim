@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Qunt%20&fontSize=70&fontAlign=85&fontAlignY=40)
 
-## 👋 Hi! I'm Da Yoon Park (a.k.a Qunt)
-I am currently a freshman at Daegu Software High School, and I am currently learning C and Java.  
+## 👋 Hi! I'm Da Yoon Park (a.k.a Qunt, midori)
+I am currently a 2nd Grade at Daegu Software High School in Korea.  
   
 
 <br/>  
